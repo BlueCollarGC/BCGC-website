@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blue Collar General Contracting (BCGC)</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="logo.png" />
+</head>
+<body>
+  <header id="home">
+    <a href="#home" class="logo-link">
+      <img src="logo.png" alt="BCGC Logo" class="logo" />
+    </a>
+    <h1>Blue Collar General Contracting</h1>
+    <p class="tagline">Work Harder, Not Smarter</p>
+    <a href="mailto:bluecollargc@outlook.com" class="btn">Contact Us</a>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      My name is <strong>Odin Seifried</strong>. I have 5 years of experience in
+      extreme cleaning and now own <strong>Blue Collar General Contracting (BCGC)</strong>.
+    </p>
+    <p>
+      We understand the importance of maintaining clean, safe, and hygienic environments—
+      particularly in facilities that support public service and community welfare.
+      Our services are fully customizable to meet your operational schedules,
+      compliance requirements, and facility needs.
+    </p>
+    <p>
+      We are fully insured, and our team is trained and certified to safely and effectively
+      carry out all services we offer. You can trust BCGC to deliver high-quality work
+      while adhering to all safety, health, and industry standards.
+    </p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Painting:</strong> Refreshing units and covering nicotine stains.</li>
+      <li><strong>Nicotine Cleaning:</strong> Removing nicotine from walls, ceilings, and door frames.</li>
+      <li><strong>Deep Cleaning:</strong> Full unit cleaning to the highest standard.</li>
+      <li><strong>Small Repairs:</strong> Drywall patching and minor household repairs.</li>
+      <li><strong>Unit Clean-outs:</strong> Complete removal of unit contents.</li>
+      <li><strong>Garbage Removal:</strong> Clearing encampments, bulk garbage, and debris.</li>
+      <li><strong>Pest Prep:</strong> Preparing units for bedbug or cockroach treatment.</li>
+      <li><strong>Hoarding/Fire Order Compliance:</strong> Reorganizing and decluttering units.</li>
+      <li><strong>Biohazard Cleanup:</strong> Safe removal of biohazard waste such as needles or bodily fluids.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>We’d love the opportunity to work with you.</p>
+    <p>
+      📧 <a href="mailto:bluecollargc@outlook.com">bluecollargc@outlook.com</a><br />
+      📞 <a href="tel:15198304081">(519) 830-4081</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 Blue Collar General Contracting | Built with pride by Odin Seifried</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
